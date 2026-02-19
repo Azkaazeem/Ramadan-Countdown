@@ -115,7 +115,7 @@ animate();
 
 function countdownToRamzan() {
   // Step 1: Set the target Ramzan date
-  let ramzanDate = new Date("February 20, 2026 00:00:00");
+  let ramzanDate = new Date("February 19, 2026 00:00:00");
 
   setInterval(function () {
 
